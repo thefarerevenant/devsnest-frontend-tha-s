@@ -1,0 +1,23 @@
+body {
+  border: 4px red solid;
+  padding: 40px;
+}
+
+.head {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.cat {
+  display: flex;
+  flex-direction: row;
+}
+.right {
+  border-left: 4px solid red;
+  padding-left: 15px;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+}
